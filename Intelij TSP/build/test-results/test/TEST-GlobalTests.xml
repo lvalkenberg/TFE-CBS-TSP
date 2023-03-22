@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GlobalTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-22T07:39:58" hostname="DESKTOP-H8TDG7S" time="89.672">
+  <properties/>
+  <testcase name="outputSmall()" classname="GlobalTests" time="5.389"/>
+  <testcase name="outputMedium()" classname="GlobalTests" time="84.282"/>
+  <system-out><![CDATA[Sum solving time for simple TSP [ms] : 1793.0
+Sum solving time for enhenced TSP [ms] : 3400.0
+Sum solving time for simple TSP [ms] : 3547.72089
+Sum solving time for enhenced TSP [ms] : 4869.268649999999
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
